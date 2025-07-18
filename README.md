@@ -8,7 +8,7 @@ This analysis offers insights that are highly relevant to EdTech companies. It i
 
 Interactive dashboards are available on my Tableau Public profile. You can explore the [global certification rate]((https://public.tableau.com/app/profile/leyan.li/viz/MOOC_Executive_Overview/Dashboard1#1)) and view [enrollment patterns by student demographics]((https://public.tableau.com/authoring/MOOC_Student_Engagement/Dashboard1#1)) for deeper insights into student behavior in online learning environments.
 
-Summary of FIndings
+## Summary of FIndings
 
 Below offers a summary of findings through my data exploration process. Drawing from these findings, I offer insights and recommendations tailored to the needs of educational technology companies aiming to improve learning outcomes and business performance.
 
